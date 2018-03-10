@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Testsuite" duration-ms="15194" started-at="2018-03-10T06:58:12Z" finished-at="2018-03-10T06:58:28Z">
+    <groups>
+    </groups>
+    <test name="Application Test" duration-ms="15194" started-at="2018-03-10T06:58:12Z" finished-at="2018-03-10T06:58:28Z">
+      <class name="instawork.ChromeTest">
+        <test-method status="PASS" signature="testChrome()[pri:0, instance:instawork.ChromeTest@26be92ad]" name="testChrome" duration-ms="6921" started-at="2018-03-10T06:58:12Z" finished-at="2018-03-10T06:58:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChrome -->
+      </class> <!-- instawork.ChromeTest -->
+      <class name="instawork.FirefoxTest">
+        <test-method status="PASS" signature="testFirefox()[pri:0, instance:instawork.FirefoxTest@14acaea5]" name="testFirefox" duration-ms="8239" started-at="2018-03-10T06:58:19Z" finished-at="2018-03-10T06:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFirefox -->
+      </class> <!-- instawork.FirefoxTest -->
+    </test> <!-- Application Test -->
+  </suite> <!-- Regression Testsuite -->
+</testng-results>

@@ -1,0 +1,10 @@
+<suite name="Regression Testsuite">
+<test name="Application Test">
+    <classes>
+        <class name="instawork.ChromeTest"></class>
+        <class name="instawork.FirefoxTest"></class>
+    </classes>
+    
+    
+</test>       
+</suite>
